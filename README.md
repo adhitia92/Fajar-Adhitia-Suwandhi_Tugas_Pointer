@@ -1,7 +1,14 @@
 # G1A021086_Fajar-Adhitia-Suwandhi_Tugas_Pointer
 Nama  : Fajar Adhitia Suwandhi
+
+
 NPM   : G1A021086
+
+
 Kelas : Informatika B
+
+
+
 Berikut adalah hasil table dan pointerpada tabel exercise 1 dan tabel exercise 2 berdasarkan algoritma :
 
 Exercise table 1: 
