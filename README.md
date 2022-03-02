@@ -9,7 +9,7 @@ Kelas : Informatika B
 
 
 
-Berikut adalah hasil table dan pointerpada tabel exercise 1 dan tabel exercise 2 berdasarkan algoritma :
+Berikut adalah hasil table dan pointer ada tabel exercise 1 dan tabel exercise 2 berdasarkan algoritma :
 
 Exercise table 1: 
 
